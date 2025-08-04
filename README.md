@@ -1,4 +1,4 @@
-# 🏡 Airbnb Income Classification with Logistic Regression   
+# 🏡 Airbnb Superhost Classification with Logistic Regression   
 BTTAI Machine Learning Foundations Lab 5
 
 ## About The Project  
